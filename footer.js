@@ -10,8 +10,6 @@ var sc_security="73dded06";
 <noscript><div class="statcounter"><a title="Web Analytics" href="https://statcounter.com/" class="statcounter"><img class="statcounter" src="https://c.statcounter.com/12698165/0/73dded06/1/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade" /></a></div></noscript>
 <!-- End of Statcounter Code -->
 
-
-
 <!-- Histats.com  START  (aync)-->
 <script type='text/javascript'>var _Hasync= _Hasync|| [];
 _Hasync.push([&#39;Histats.start&#39;, &#39;1,4514209,4,0,0,0,00010000&#39;]);
